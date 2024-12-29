@@ -1,6 +1,6 @@
 # vue-mastery-socks
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple project developed during vue-mastery course to understand the basics of vue.js
 
 ## Recommended IDE Setup
 
